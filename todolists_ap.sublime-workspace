@@ -1,0 +1,361 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"todo",
+				"todo_items"
+			],
+			[
+				"cour",
+				"courses"
+			],
+			[
+				"loo",
+				"looking_for"
+			],
+			[
+				"re",
+				"require"
+			],
+			[
+				"depe",
+				"development"
+			],
+			[
+				"tim",
+				"times_displayed"
+			],
+			[
+				"ra",
+				"random_names"
+			],
+			[
+				"get",
+				"get_info"
+			],
+			[
+				"fa",
+				"family_tree_19"
+			],
+			[
+				"wor",
+				"word_frenquency"
+			],
+			[
+				"se",
+				"sentence"
+			],
+			[
+				"url",
+				"url"
+			],
+			[
+				"ur",
+				"url"
+			],
+			[
+				"Ht",
+				"html"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Gemfile",
+			"settings":
+			{
+				"buffer_size": 1542,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Rails",
+		"selected_items":
+		[
+			[
+				"Rails",
+				"Snippet: Rails Restful Update Action"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				"lo",
+				"Local History: Compare"
+			],
+			[
+				"loca",
+				"Local History: Browse"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 530.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Ricardo/projetos/todolists_ap"
+	],
+	"file_history":
+	[
+		"/Users/Ricardo/projetos/body-store/Vendor/mjohnson/transit/src/Transit/File.php",
+		"/Users/Ricardo/projetos/body-store/Config/core.php",
+		"/Users/Ricardo/projetos/todolists_relationships/db/migrate/20160113213120_add_user_to_todo_list.rb",
+		"/Users/Ricardo/projetos/todolists_relationships/db/migrate/20160113142526_create_users.rb",
+		"/Users/Ricardo/projetos/todolists_relationships/app/models/todo_list.rb",
+		"/Users/Ricardo/projetos/todolists_relationships/app/models/todo_item.rb",
+		"/Users/Ricardo/projetos/todolists_relationships/app/models/user.rb",
+		"/Users/Ricardo/projetos/todolists_relationships/app/models/profile.rb",
+		"/Users/Ricardo/projetos/todolists_relationships/db/migrate/20160113143022_create_profiles.rb",
+		"/Users/Ricardo/projetos/todolists_relationships/db/migrate/20160113143325_create_todo_lists.rb",
+		"/Users/Ricardo/projetos/todolists_relationships/db/migrate/20160113145444_create_todo_items.rb",
+		"/Users/Ricardo/projetos/todolists_relationships/db/migrate/0160113213120_add_user_to_todo_list.rb",
+		"/Users/Ricardo/projetos/todolists_relationships/db/migrate/20160124121414_change_birth_date_format_profile.rb",
+		"/Users/Ricardo/projetos/todolists_relationships/db/migrate/20160123214712_create_profiles.rb",
+		"/Users/Ricardo/projetos/todolists_relationships/Gemfile",
+		"/Users/Ricardo/projetos/todolists_relationships/.rspec",
+		"/Users/Ricardo/projetos/todolists_relationships/db/migrate/20160123221716_add_user_to_todo_list.rb",
+		"/Users/Ricardo/projetos/todolists_relationships/db/seeds.rb",
+		"/Users/Ricardo/projetos/todolists_relationships/db/migrate/20160124114958_remove_references_from_profile.rb",
+		"/Users/Ricardo/projetos/todolists_relationships/db/migrate/20160124113247_create_todo_items.rb",
+		"/Users/Ricardo/projetos/todolists/app/models/user.rb",
+		"/Users/Ricardo/projetos/todolists_relationships/app/models/todolist.rb",
+		"/Users/Ricardo/projetos/todolists_relationships/db/migrate/20160123220619_create_todolists.rb",
+		"/Users/Ricardo/Desktop/freela/PIBN/index.html",
+		"/Users/Ricardo/projetos/coursera/advanced_ar/app/models/person.rb",
+		"/Users/Ricardo/projetos/coursera/advanced_ar/db/seeds.rb",
+		"/Users/Ricardo/projetos/coursera/rails_2/todolists/assignment/assignment.rb",
+		"/Users/Ricardo/projetos/recipefinder/spec/recipes_app_spec.rb",
+		"/Users/Ricardo/projetos/recipefinder/spec/spec_helper.rb",
+		"/Users/Ricardo/projetos/recipefinder/Gemfile",
+		"/Users/Ricardo/projetos/coursera/rails_2/todolists/Gemfile",
+		"/Users/Ricardo/projetos/recipefinder/.rspec",
+		"/Users/Ricardo/projetos/coursera/rails_2/todolists/.rspec",
+		"/Users/Ricardo/projetos/my_first_app/app/controllers/courses_controller.rb",
+		"/Users/Ricardo/projetos/recipefinder/c1m3-assignment.zip",
+		"/Users/Ricardo/projetos/my_first_app/app/controllers/teste.rb",
+		"/Users/Ricardo/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/Ricardo/projetos/my_first_app/Gemfile",
+		"/Users/Ricardo/projetos/recipefinder/app/controllers/recipes_controller.rb",
+		"/Users/Ricardo/projetos/recipefinder/app/models/recipe.rb",
+		"/Users/Ricardo/projetos/recipefinder/app/views/recipes/index.html.erb",
+		"/Users/Ricardo/projetos/recipefinder/app/assets/stylesheets/recipes.scss",
+		"/Users/Ricardo/projetos/my_first_app/app/views/courses/index.html.erb",
+		"/Users/Ricardo/projetos/my_first_app/app/models/cousera.rb",
+		"/Users/Ricardo/Downloads/rails/fullstack-course1-module3-master/Assignments/Lesson03-Assignment01-HTTP-Client/student-start/module3_1_assignment.rb",
+		"/Users/Ricardo/projetos/recipefinder/config/routes.rb",
+		"/Users/Ricardo/projetos/my_first_app/spec/spec_helper.rb",
+		"/Users/Ricardo/projetos/my_first_app/spec/coursera_app_spec.rb",
+		"/Users/Ricardo/projetos/my_first_app/spec/spec_helper.rb_old",
+		"/Users/Ricardo/projetos/my_first_app/app/helpers/greeter_helper.rb",
+		"/Users/Ricardo/projetos/my_first_app/app/views/greeter/hello.html.erb",
+		"/Users/Ricardo/projetos/my_first_app/config/routes.rb",
+		"/Users/Ricardo/projetos/my_first_app/app/views/layouts/application.html.erb",
+		"/Users/Ricardo/projetos/my_first_app/app/assets/stylesheets/courses.scss",
+		"/Users/Ricardo/projetos/my_first_app/app/controllers/greeter_controller.rb",
+		"/Users/Ricardo/projetos/my_first_app/app/views/greeter/goodbye.html.erb",
+		"/Users/Ricardo/projetos/rails/teste.rb",
+		"/Users/Ricardo/projetos/rails/anotacoes.txt",
+		"/Users/Ricardo/projetos/rails/student-start/module2_lesson1_formative.rb",
+		"/Users/Ricardo/projetos/rails/lesson_one.rb",
+		"/Users/Ricardo/Desktop/teste.ctp",
+		"/Users/Ricardo/Desktop/teste.html",
+		"/Users/Ricardo/Desktop/teste",
+		"/Users/Ricardo/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/Ricardo/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/Ricardo/Library/Application Support/Sublime Text 3/Packages/User/AngularJS-completions.sublime-settings"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"home>",
+			"home",
+			"home ",
+			"home",
+			"reverse"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Gemfile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1542,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1522,
+								1522
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 188.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "todolists_ap.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 364.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
